@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/harshvaghela24" target="blank"><img src="https://img.shields.io/twitter/follow/harshvaghela24?logo=twitter&style=for-the-badge" alt="harshvaghela24" /></a> </p>
 
-- 🌱 I’m currently learning **UI/UX designing | React-Native |ML Python | AI | Computer Science**
+- 🌱 I’m currently learning **vue.js | React-Native |ML Python | AI | Computer Science**
 
 - 👯 I’m looking to collaborate on [web-development | Full-Stack Developing | Front-End/Back-End Development](M-E-R-N Stack | React.js | MongoDb | Express.js |Node.js)
 
