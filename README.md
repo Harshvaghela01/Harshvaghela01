@@ -23,7 +23,7 @@
 
 - 💬 Ask me about **React or web developing or,anything that interests you.**
 
-- 📫 How to reach me **Harshvaghela200@gmail.com**
+- 📫 How to reach me **Harshvaghela400@gmail.com**
 
 - ⚡ Fun fact **“Never go to bed mad. Stay up and fight.”**
 
