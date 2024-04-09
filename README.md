@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/harshvaghela24" target="blank"><img src="https://img.shields.io/twitter/follow/harshvaghela24?logo=twitter&style=for-the-badge" alt="harshvaghela24" /></a> </p>
 
-- 🌱 I’m currently learning **Computer Science | React-Native | Python | AI/ML |**
+- 🌱 I’m currently learning **Computer Science | NLP | Python | AI/ML |**
 
-- 👯 I’m looking to collaborate on [web-development | Full-Stack Developing | Front-End/Back-End Development](M-E-R-N Stack | React.js | MongoDb | Express.js |Node.js)
+- 👯 I’m looking to collaborate on [web-development | Full-Stack Developing ](M-E-R-N Stack | Python | NLP | Django)
 
-- 💡 I'm interested in **Web Development Full-Stack Development**
+- 💡 I'm interested in **Python | ML | NLP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Harshvaghela01](https://github.com/Harshvaghela01)
 
